@@ -1,0 +1,2 @@
+sqlplus/nolog @D:\Buisness_Solution\guide\drop.sql
+/

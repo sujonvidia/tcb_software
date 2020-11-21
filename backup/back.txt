@@ -1,0 +1,63 @@
+
+Connected to: Oracle9i Enterprise Edition Release 9.2.0.1.0 - Production
+With the Partitioning, OLAP and Oracle Data Mining options
+JServer Release 9.2.0.1.0 - Production
+Export done in WE8MSWIN1252 character set and AL16UTF16 NCHAR character set
+
+About to export specified users ...
+. exporting pre-schema procedural objects and actions
+. exporting foreign function library names for user PSL 
+. exporting PUBLIC type synonyms
+. exporting private type synonyms
+. exporting object type definitions for user PSL 
+About to export PSL's objects ...
+. exporting database links
+. exporting sequence numbers
+. exporting cluster definitions
+. about to export PSL's tables via Conventional Path ...
+. . exporting table                            ACC        398 rows exported
+. . exporting table                    ASSETS_INFO          2 rows exported
+. . exporting table                         BUDGET        103 rows exported
+. . exporting table                         CHALAN          5 rows exported
+. . exporting table                        COMPANY          1 rows exported
+. . exporting table                      CURR_RATE          2 rows exported
+. . exporting table                         DEPREC          0 rows exported
+. . exporting table                         FISCAL         12 rows exported
+. . exporting table                         GODOWN         11 rows exported
+. . exporting table                      LEVEL_INF          1 rows exported
+. . exporting table                       LOG_BOOK        537 rows exported
+. . exporting table                          MODEL          7 rows exported
+. . exporting table                    OPEN_STOCKS         39 rows exported
+. . exporting table                     PARTY_LIST        252 rows exported
+. . exporting table                        PROJECT          0 rows exported
+. . exporting table                   QLIST_DETALS          0 rows exported
+. . exporting table                         Q_LIST          0 rows exported
+. . exporting table                       STMT_DTA          0 rows exported
+. . exporting table                       STMT_LST          0 rows exported
+. . exporting table                         STOCKS         13 rows exported
+. . exporting table                      STOCK_GRP          6 rows exported
+. . exporting table                       SUB_LDGR         69 rows exported
+. . exporting table                      TDISTRICT         64 rows exported
+. . exporting table                       TRANSFER          1 rows exported
+. . exporting table                     TRANS_INVT          2 rows exported
+. . exporting table                     TRANS_ITEM          5 rows exported
+. . exporting table                       TRN_SNGL       1525 rows exported
+. . exporting table                         TTITLE         19 rows exported
+. . exporting table                          USERS          3 rows exported
+. exporting synonyms
+. exporting views
+. exporting stored procedures
+. exporting operators
+. exporting referential integrity constraints
+. exporting triggers
+. exporting indextypes
+. exporting bitmap, functional and extensible indexes
+. exporting posttables actions
+. exporting materialized views
+. exporting snapshot logs
+. exporting job queues
+. exporting refresh groups and children
+. exporting dimensions
+. exporting post-schema procedural objects and actions
+. exporting statistics
+Export terminated successfully without warnings.

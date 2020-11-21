@@ -1,0 +1,2 @@
+D:\oracle\ora92\bin\exp.exe userid=psl/psl@dbpsl file=D:\Buisness_Solution\backup\psl.dmp owner=psl LOG=D:\Buisness_Solution\backup\back.txt
+

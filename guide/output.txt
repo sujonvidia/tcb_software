@@ -1,0 +1,403 @@
+SP2-0103: Nothing in SQL buffer to run.
+Connected.
+SP2-0103: Nothing in SQL buffer to run.
+
+Tablespace created.
+
+
+User created.
+
+
+Grant succeeded.
+
+Connected.
+
+Grant succeeded.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Trigger created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Trigger created.
+
+
+Table created.
+
+
+Trigger created.
+
+
+Trigger created.
+
+
+Table created.
+
+
+Index created.
+
+
+Trigger created.
+
+
+View created.
+
+
+Table created.
+
+
+View created.
+
+
+Table created.
+
+
+Index created.
+
+
+Trigger created.
+
+
+Table created.
+
+
+Index created.
+
+
+Trigger created.
+
+
+Table created.
+
+
+Trigger created.
+
+
+Table created.
+
+
+View created.
+
+
+Trigger created.
+
+
+Table created.
+
+
+Trigger created.
+
+
+Table created.
+
+
+Trigger created.
+
+
+Table created.
+
+
+Trigger created.
+
+
+Table created.
+
+
+Trigger created.
+
+
+Table created.
+
+
+Trigger created.
+
+
+Table created.
+
+
+Table created.
+
+
+Index created.
+
+
+Trigger created.
+
+
+Table created.
+
+
+Index created.
+
+
+Trigger created.
+
+
+Table created.
+
+
+Index created.
+
+
+Trigger created.
+
+
+Table created.
+
+
+Index created.
+
+
+Trigger created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Trigger created.
+
+
+Table created.
+
+
+Trigger created.
+
+
+1 row created.
+
+
+Commit complete.
+
+
+1 row created.
+
+
+1 row created.
+
+
+PL/SQL procedure successfully completed.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+Commit complete.
+

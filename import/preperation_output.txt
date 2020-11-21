@@ -1,0 +1,12 @@
+SP2-0103: Nothing in SQL buffer to run.
+Connected.
+SP2-0103: Nothing in SQL buffer to run.
+
+User dropped.
+
+
+User created.
+
+
+Grant succeeded.
+

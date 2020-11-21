@@ -1,0 +1,25 @@
+http://localhost:8889/forms90/f90servlet?config=integrated
+
+
+
+[integrated]
+form=D:\Buisness_Solution\forms\frmlogin.fmx
+width=100%
+height=100%
+reports_path=D:\Buisness_Solution\reports
+pageTitle=Prottasha Software Ltd.
+separateFrame=True
+
+
+
+Comunication Person Of TCB
+--------------------------
+Masum (acc)
+01915-552816
+01731-216662
+
+Kashem  (cashier)
+01724-076335
+
+Salim   (stock maintain)
+01710-921429

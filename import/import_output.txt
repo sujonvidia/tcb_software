@@ -1,0 +1,42 @@
+
+Connected to: Oracle9i Enterprise Edition Release 9.2.0.1.0 - Production
+With the Partitioning, OLAP and Oracle Data Mining options
+JServer Release 9.2.0.1.0 - Production
+
+Export file created by EXPORT:V09.02.00 via conventional path
+
+Warning: the objects were exported by PSL, not by you
+
+import done in WE8MSWIN1252 character set and AL16UTF16 NCHAR character set
+. importing PSL's objects into PSL
+. . importing table                          "ACC"        387 rows imported
+. . importing table                  "ASSETS_INFO"          1 rows imported
+. . importing table                       "BUDGET"        102 rows imported
+. . importing table                       "CHALAN"          0 rows imported
+. . importing table                      "COMPANY"          1 rows imported
+. . importing table                    "CURR_RATE"          0 rows imported
+. . importing table                       "DEPREC"          0 rows imported
+. . importing table                       "FISCAL"         12 rows imported
+. . importing table                       "GODOWN"         11 rows imported
+. . importing table                    "LEVEL_INF"          1 rows imported
+. . importing table                     "LOG_BOOK"        317 rows imported
+. . importing table                        "MODEL"          7 rows imported
+. . importing table                  "OPEN_STOCKS"         39 rows imported
+. . importing table                   "PARTY_LIST"        156 rows imported
+. . importing table                      "PROJECT"          0 rows imported
+. . importing table                 "QLIST_DETALS"          0 rows imported
+. . importing table                       "Q_LIST"          0 rows imported
+. . importing table                     "STMT_DTA"          0 rows imported
+. . importing table                     "STMT_LST"          0 rows imported
+. . importing table                       "STOCKS"         13 rows imported
+. . importing table                    "STOCK_GRP"          6 rows imported
+. . importing table                     "SUB_LDGR"         69 rows imported
+. . importing table                    "TDISTRICT"         64 rows imported
+. . importing table                     "TRANSFER"          0 rows imported
+. . importing table                   "TRANS_INVT"          0 rows imported
+. . importing table                   "TRANS_ITEM"          2 rows imported
+. . importing table                     "TRN_SNGL"        705 rows imported
+. . importing table                       "TTITLE"         19 rows imported
+. . importing table                        "USERS"          1 rows imported
+About to enable constraints...
+Import terminated successfully without warnings.

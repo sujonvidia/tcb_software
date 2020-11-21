@@ -1,0 +1,2 @@
+D:\oracle\ora92\bin\imp.exe system/psl@dbpsl file=D:\Buisness_Solution\backup\psl.dmp LOG=D:\Buisness_Solution\import\import_output.txt fromuser='psl' touser='psl' 
+/
